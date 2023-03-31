@@ -1,6 +1,6 @@
 Name:		texlive-garamond-math
 Version:	61481
-Release:	1
+Release:	2
 Summary:	An OTF math font matching EB Garamond
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/garamond-math
