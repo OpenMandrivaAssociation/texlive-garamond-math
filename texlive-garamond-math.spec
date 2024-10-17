@@ -3,7 +3,7 @@ Version:	61481
 Release:	2
 Summary:	An OTF math font matching EB Garamond
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/garamond-math
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/garamond-math
 License:	ofl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/garamond-math.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/garamond-math.doc.r%{version}.tar.xz
